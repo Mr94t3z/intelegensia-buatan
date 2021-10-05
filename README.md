@@ -1,4 +1,4 @@
-# Just for practice & some task
+# Just for practice and do some tasks
  Here's my profile :
  ```
  Name  : Muhamad Taopik
