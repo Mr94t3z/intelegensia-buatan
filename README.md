@@ -1,7 +1,7 @@
 # Just for practice and do some tasks
 ![IB](https://img.shields.io/badge/Practice%20And%20Task-Itelegensia%20Buatan-blue)
 
- Here's my profile :
+ Here's my `profile`:
  
  ```
  Name  : Muhamad Taopik
