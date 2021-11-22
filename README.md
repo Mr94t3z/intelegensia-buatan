@@ -4,8 +4,8 @@
  Here's my profile :
  
  > Name  : Muhamad Taopik
- NIM   : 1197050081
- Class : Informatics C
+ > NIM   : 1197050081
+ > Class : Informatics C
  
 # Archivments
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mr94t3z&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
