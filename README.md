@@ -12,5 +12,5 @@
 # Archivments
 ![IB](https://img.shields.io/badge/Archivments-Itelegensia%20Buatan-orange)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mr94t3z)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mr94t3z&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
