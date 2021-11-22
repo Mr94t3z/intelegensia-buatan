@@ -1,5 +1,5 @@
 # Just for practice and do some tasks
-[![IB](https://img.shields.io/badge/Practice%20And%20Task-Intelegensia%20Buatan-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1234)
+![IB](https://img.shields.io/badge/Practice%20And%20Task-Itelegensia%20Buatan-blue)
 
  Here's my profile :
  
@@ -10,4 +10,6 @@
  ```
  
 # Archivments
+![IB](https://img.shields.io/badge/Archivments-Itelegensia%20Buatan-orange)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mr94t3z&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
